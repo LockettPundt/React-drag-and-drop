@@ -13,13 +13,15 @@ export default function List() {
       color: 'green',
       name: 'Lockett',
     },
-    {id: '2',
-    color: 'salmon',
-    name: 'Chauncey',
+    { 
+      id: '2',
+      color: 'salmon',
+      name: 'Chauncey',
     },
-    {id: '3',
-    color: 'purple',
-    name: 'Prince',
+    {
+      id: '3',
+      color: 'purple',
+      name: 'Prince',
     },
     {
       id: '4',
